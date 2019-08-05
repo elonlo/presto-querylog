@@ -12,8 +12,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <log4j2.version>2.12.0</log4j2.version>
-        <presto-spi.version>316</presto-spi.version>
-        <!--NOTE: PrestoSQL 316 uses 2.9.8-->
+        <presto-spi.version>315</presto-spi.version>
+        <!--NOTE: PrestoSQL 315 uses 2.9.8-->
         <!--This dependency comes from io.airlift:airbase 91-->
         <jackson.version>2.9.8</jackson.version>
         <!-- Test -->
